@@ -1,0 +1,15 @@
+S.No.,Date,Activity / Work Undertaken,Status
+1.,,Selected the project topic: Spam Email Detector,Completed
+2.,,Studied the problem and identified the project objectives,Completed
+3.,,Searched for and selected a labelled email dataset,Completed
+4.,,Inspected the dataset columns and class distribution,Completed
+5.,,Installed Python and required libraries,Completed
+6.,,Installed Orange Data Mining and Text Mining add-on,Completed
+7.,,Created the Orange text-classification workflow,Completed
+8.,,Configured text fields and evaluated Naive Bayes in Orange,Completed
+9.,,Recorded Orange metrics and confusion matrix,Completed
+10.,,Created the Python preprocessing and model-training scripts,In progress
+11.,,Built the Streamlit website interface,In progress
+12.,,Tested SpamBam using sample messages,Pending
+13.,,Completed project documentation and practical record,In progress
+14.,,Prepared and recorded the project video presentation,Pending

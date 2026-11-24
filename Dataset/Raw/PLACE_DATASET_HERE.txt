@@ -1,0 +1,2 @@
+Place SA_SubTxt_fn.csv in this folder.
+Run `python Python/download_dataset.py` from the project root to download it automatically.

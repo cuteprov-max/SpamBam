@@ -1,0 +1,16 @@
+File
+  ↓
+Select Columns (label = Target; data = text; filename = Meta)
+  ↓
+Corpus (Title = filename; Used text feature = data; Language = English)
+  ↓
+Preprocess Text
+  ↓
+Bag of Words
+  ↓
+Test & Score (Data)
+
+Naive Bayes ─────────────→ Test & Score (Learner)
+Test & Score ────────────→ Confusion Matrix
+
+Evaluation: Stratified 5-fold cross-validation

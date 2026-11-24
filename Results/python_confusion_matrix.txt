@@ -1,0 +1,8 @@
+Python hold-out evaluation (80:20, stratified, random_state=42)
+Rows = actual class; columns = predicted class
+Class 0 = Ham; Class 1 = Spam
+
+                 Predicted
+                 Ham   Spam
+Actual Ham        817    14
+Actual Spam        24   355
