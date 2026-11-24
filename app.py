@@ -8,7 +8,7 @@ sys.path.insert(0, str(ROOT / "Python"))
 
 from spam_model import load_dataset, build_pipeline, clean_text
 
-DATA_PATH = ROOT / "Dataset" / "raw" / "SA_SubTxt_fn.csv"
+DATA_PATH = ROOT / "Dataset" / "Raw" / "SA_SubTxt_fn.csv"
 
 st.set_page_config(
     page_title="SpamBam | Email Checker",
@@ -66,8 +66,6 @@ st.markdown("""
     }
 </style>
 """, unsafe_allow_html=True)
-,
-)
 
 st.markdown(
     """
