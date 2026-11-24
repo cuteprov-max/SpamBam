@@ -64,6 +64,19 @@ st.markdown("""
     a {
         color: #FFA733 !important;
     }
+
+/* Black message input */
+.stTextArea textarea {
+    background-color: #000000 !important;
+    color: #FFFFFF !important;
+    border: 1px solid #FF8C00 !important;
+}
+
+/* Placeholder text */
+.stTextArea textarea::placeholder {
+    color: #AAAAAA !important;
+}
+
 </style>
 """, unsafe_allow_html=True)
 
